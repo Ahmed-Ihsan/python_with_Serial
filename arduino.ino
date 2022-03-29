@@ -44,7 +44,7 @@ void setup()
   RemoteXY_Init (); 
   
   
-  // TODO you setup code
+  Serial.begin(9600);
   
 }
 
